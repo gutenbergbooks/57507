@@ -1,31 +1,7 @@
-The Project Gutenberg EBook of The Hopi Indians, by Walter Hough
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: The Hopi Indians
-
-Author: Walter Hough
-
-Release Date: July 14, 2018 [EBook #57507]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE HOPI INDIANS ***
+*** START OF THE PROJECT GUTENBERG EBOOK 57507 ***
 
 
 
-
-Produced by Brian Sogard, Rachael Schultz, Sam W. and the
-Online Distributed Proofreading Team at http://www.pgdp.net
-(This file was produced from images generously made
-available by The Internet Archive)
 
 
 
@@ -200,7 +176,7 @@ valley in New Mexico more than two centuries ago.
 
 There are a number of ways of reaching the Hopi pueblos. If one would
 go in by the east, he may choose to start from Holbrook on the Santa
-Fé Pacific Railroad, or Winslow (two days each), or by the west from
+FÃ© Pacific Railroad, or Winslow (two days each), or by the west from
 Canyon Diablo (two days), or Flagstaff (three days). The estimates of
 time are based on "traveling light" and with few interruptions. A
 longer journey may be made from Gallup, during which the Canyon de
@@ -225,7 +201,7 @@ thunder-storms, Tusayan would be a desert indeed.
 
 The hardy grasses and desert plants do their best to cover the
 nakedness of the country; along the washes are a few cottonwoods; on
-the mesas are junipers and piñons; and in the higher lands to the
+the mesas are junipers and piÃ±ons; and in the higher lands to the
 north small oaks strive for an existence. At times, when the rains are
 favoring, plants spring up and the desert is painted with great masses
 of color; here and there are stretches green with grass or yellow with
@@ -490,16 +466,16 @@ brave who seeks a Hopi maiden to wife, coming to live with her
 people, but rarely does a Hopi youth lead a "Teshab" girl to his
 hearth as did Anowita of Walpi.
 
-A few Zuñi have cast their lot at Tusayan and several of the latter
-live at Zuñi and in some of the Rio Grande pueblos. Not many years
+A few ZuÃ±i have cast their lot at Tusayan and several of the latter
+live at ZuÃ±i and in some of the Rio Grande pueblos. Not many years
 ago, a Hopi was chief of an important fraternity at Sia, a pueblo on
-the Jemez River in New Mexico. The Zuñi are quite neighborly and visit
+the Jemez River in New Mexico. The ZuÃ±i are quite neighborly and visit
 Tusayan to witness the ceremonies or to exchange necklaces of shell
 and turquoise beads for blankets. Tradition has it that some of the
-clans from the Rio Grande came by way of Zuñi and that Sichomovi has a
+clans from the Rio Grande came by way of ZuÃ±i and that Sichomovi has a
 strong admixture from that pueblo. In support of this it may be said
-that the Zuñi visitors are usually domiciled at Sichomovi, where they
-seem very much at home, and many of the people there speak the Zuñi
+that the ZuÃ±i visitors are usually domiciled at Sichomovi, where they
+seem very much at home, and many of the people there speak the ZuÃ±i
 language.
 
 At the time of the ceremonies, especially those performed in summer,
@@ -625,7 +601,7 @@ performed by the New Fire Society. By December, Tusayan is hard in the
 grip of winter, and as the spirits are held fast beneath the frozen
 ground, they cannot do ill to anyone who speaks about them, so that
 many legends and stories and much sacred lore are freely divulged
-around the glowing fires of fat piñon wood in the Hopi houses.
+around the glowing fires of fat piÃ±on wood in the Hopi houses.
 Everyone is also on the qui vive for the Soyaluna, in many respects
 the most important ceremony in the Hopi calendar, when the first
 kachinas appear. December is called the "Hoe moon" because in this
@@ -796,7 +772,7 @@ surveyor knows where his lines ran.
 
 Every once in a while the Hopi have a "raising," but instead of the
 kind and willing neighbors of the "bee" in the States, here the
-workers are clan relations. Coöperation or communal effort goes a long
+workers are clan relations. CoÃ¶peration or communal effort goes a long
 way toward explaining why the days of the Pueblo dweller are long in
 the land and the Mormon settlers in the Southwest also followed this
 primitive law which goes into effect wherever men are gathered for the
@@ -894,7 +870,7 @@ with the house chief, has the privilege of frequenting the Mong-kiva
 or council chamber of the pueblo. The town crier's announcements
 attracted the notice of the Spanish conquerors in the early days as
 they have that of modern travelers. In the quaint language of
-Castañeda, speaking of Zuñi: "They have priests who preach to them
+CastaÃ±eda, speaking of ZuÃ±i: "They have priests who preach to them
 whom they call papas. These are the elders. They go up on the highest
 roof of the village and preach to the village from there, like public
 criers in the morning while the sun is rising, the whole village
@@ -978,7 +954,7 @@ the Hopi have poor memories for dates. No one knows his age, and many
 of these villages seem to live within the shifting horizons of
 yesterday and tomorrow. The priests, however, keep a record of the
 ceremonies by adding to their _tiponi_, or palladium of their society,
-a feather for each celebration. At Zuñi a record of the death of
+a feather for each celebration. At ZuÃ±i a record of the death of
 priests of the war society is kept by making scratches on the face of
 a large rock near a shrine, and by this method a Hopi woman keeps
 count of the days from the child's birth to the natal ceremony. Ask a
@@ -1539,7 +1515,7 @@ heart of agave in water. This writer says:
 Hopi women assiduously gather the seeds of grasses and other plants,
 which they grind up and add to corn-meal to improve the flavor of the
 bread, or, perhaps, a prized bread is made entirely of the ground seed
-of some desert plant. Oily seeds, such as those of the piñon, pumpkin,
+of some desert plant. Oily seeds, such as those of the piÃ±on, pumpkin,
 and melons are ground to form shortening in various cakes and to add
 richness to stews. Often food is colored with harmless vegetable
 dyes, no doubt with the deep-laid scheme on the part of the mother of
@@ -1667,7 +1643,7 @@ simplest way of giving color to the leather is to rub red ocher or
 other clay into the soft-tanned skin, as is seen in the red moccasins
 of the Snake dancers. A warm brown is given to the leather with an
 infusion of the bark of the water birch, and a black dye is made by
-burning piñon resin with crude native alum. Sometimes the esthetic
+burning piÃ±on resin with crude native alum. Sometimes the esthetic
 tastes of a young man are gratified by moccasins dyed with aniline red
 or blue according to his fancy.
 
@@ -2003,7 +1979,7 @@ that hang from the rafters of the houses. "Dolls," they are usually
 called, but the Hopi know that they are representations of the
 spiritual beings who live in the unseen world, and a great variety
 there is of them. Thousands of these figures are made by the Hopi,
-many to be sold to visitors, a thing no Zuñi would do, because in that
+many to be sold to visitors, a thing no ZuÃ±i would do, because in that
 pueblo these images have a religious character and are hidden away,
 while the Hopi decorate the houses with them.
 
@@ -2287,7 +2263,7 @@ which has long been forgotten.
 The walls are laid in irregular courses, mortar being sparingly used.
 The addition of plastering to the outside and inside of the house
 awaits some future time, though sometimes work on the outside coat is
-put off to an ever vanishing _mañana_. When the house walls, seven or
+put off to an ever vanishing _maÃ±ana_. When the house walls, seven or
 eight feet in height and of irregular thickness from seventeen to
 twenty-two inches are completed, the women begin on the roof. The
 beams are laid across the side walls at intervals of two feet; above
@@ -2299,7 +2275,7 @@ complicated and ingenious, is nearly level, but provision is made for
 carrying off the water by means of spouts.
 
 When the roof is finished the women put a thick coating of mud on the
-floor and plaster the walls. At Zuñi floors are nearly always made of
+floor and plaster the walls. At ZuÃ±i floors are nearly always made of
 slabs of stone, but in Hopi mud is the rule. The process of plastering
 a floor is interesting to an onlooker. Clay dug from under the cliffs,
 crushed and softened in water and tempered with sand is smeared on the
@@ -2509,7 +2485,7 @@ Walpi.
 
 With all these games the Hopi are not gamblers and appear to have the
 same aversion to it as they have to fire-water, differing in this
-respect from the Navaho, Zuñi, and many other tribes of Indians. Most
+respect from the Navaho, ZuÃ±i, and many other tribes of Indians. Most
 of their games, like those of the ancient Greeks, are full of the
 exhilaration of life, the glow of physical training, the doing of
 something to win the favor of the gods.
@@ -2531,7 +2507,7 @@ One morning about seven o'clock at Winslow, Arizona, a message was
 brought to the hotel that an Indian wished to see the leader of an
 exploring party. On stepping out on the street the Indian was found
 sitting on the curbstone, mouth agape with wonder at the trains moving
-about on the Santa Fé Pacific Railroad.
+about on the Santa FÃ© Pacific Railroad.
 
 He delivered a note from a white man at Oraibi and it was ascertained
 that he had started from that place at four on the previous afternoon,
@@ -3058,7 +3034,7 @@ some of the pueblos. The Navaho, in pursuance of this custom, throw
 down the earth-covered hogan over the dead, and in the course of time
 a mound filled with decaying timbers marks the spot. Hopi burial
 customs have not changed for centuries; they have never burned their
-dead, as formerly did the Zuñi and the peoples of the Gila valley. The
+dead, as formerly did the ZuÃ±i and the peoples of the Gila valley. The
 ancient Hopi ceremonies contain almost the only records of their past
 history in the pottery, ornaments, weapons, and relics of bone, shell,
 stone, traces of prayer-sticks, cloth, baskets, and matting. These
@@ -3460,7 +3436,7 @@ second in the afternoon. There are many _kachinas_ in rich costumes,
 wearing strange helmets and adorned in many striking ways. They carry
 planting sticks, hoes, and other emblematic paraphernalia. A number
 are dressed as female _kachinas_. These furnished an accompaniment to
-the song by rasping sheep's scapulæ over notched sticks placed on
+the song by rasping sheep's scapulÃ¦ over notched sticks placed on
 wooden sounding boxes. The male and female dancers stand in two lines
 and posture to the music, and the former turn around repeatedly during
 the dance. The children especially enjoy the dance, because the
@@ -3482,7 +3458,7 @@ Southwest, and by mutual concessions the clans making up the Hopi
 would arrange their rites to fit in the month when the rain-makers are
 needed. Thus, the women's ceremonies in September and October would
 not need to be disturbed, perhaps to the relief of the obscure Hopi
-who, like Julius Cæsar, reformed the calendar.
+who, like Julius CÃ¦sar, reformed the calendar.
 
 The Snake and Flute ceremonies of the Hopi are most widely known,
 since at this season of the year most travelers visit Tusayan, and
@@ -4024,7 +4000,7 @@ at the upper end of Keam's Canyon; the Bear clan those at the mouth of
 the same canyon; the Tobacco clan those on the crags of Awatobi; the
 Rain Cloud clan the nests in the Moki Buttes; the Reed clan those in
 the region of their old town forty miles north of Navajo Springs on
-the Santa Fé railroad; the Lizard clan the nests on Bitahuchi or Red
+the Santa FÃ© railroad; the Lizard clan the nests on Bitahuchi or Red
 Rocks, about forty miles south of Walpi; or that the eagle nests west
 of the pueblos along the Little Colorado and Great Colorado belong to
 the Oraibi and Middle Mesa villagers. He would disdain the fact that
@@ -4222,7 +4198,7 @@ water is brought is Clear Creek near the town of Winslow, seventy-five
 miles south of Walpi.
 
 Each field has a shrine and _pahos_ are often seen there; this is also
-the custom among the Zuñi and other of the Pueblos. In the center of
+the custom among the ZuÃ±i and other of the Pueblos. In the center of
 the main plaza of each pueblo may be seen a stone box with a slab of
 stone for a door which opens to the east. This is called the _pahoki_,
 or "house of the pahos," the central shrine of the village, and it is
@@ -4290,7 +4266,7 @@ and possessed special weapons of tremendous power to assist them in
 their supernatural craft. Long the people groaned under the ravages of
 the monsters, and the time and manner of their deliverance they
 delight to recount in many weird stories during the winter nights by
-their flickering fires of piñon wood.
+their flickering fires of piÃ±on wood.
 
 In the earth lived the Spider Woman, ancient of days, full of wisdom,
 and having a tender regard for her people, the Hopi. Born to her from
@@ -4310,19 +4286,19 @@ In the above, in the heart of the sky, lived the Man-Eagle. On the
 people of the whole earth he swooped down, carrying aloft women and
 maidens to his house, where after four days he devoured them. The
 Youth, journeying to the San Francisco Mountains, met at the
-foot-hills the Piñon maids dressed in mantles of piñon bark and grass,
+foot-hills the PiÃ±on maids dressed in mantles of piÃ±on bark and grass,
 and here likewise he met the Spider Woman and the Mole. "You have
 come," said they in greeting; "sit down; whence go you?" Then said the
 Youth, "Man-Eagle has carried away my bride and I seek to bring her
 back." "I will aid you," said the Spider Woman.
 
-She bade the Piñon maids to gather piñon gum, wash it, and make a
+She bade the PiÃ±on maids to gather piÃ±on gum, wash it, and make a
 garment in exact imitation of the flint arrow head armor which
 rendered Man-Eagle invulnerable. So did they, and the Spider Woman
 gave it, with charm flour, to the Youth. As a spider, then, so small
 as to be invisible, she perched on the right ear of the Youth that she
 might whisper advice. Mole led the way to the top of the mountains,
-but the Piñon maids remained behind.
+but the PiÃ±on maids remained behind.
 
 When they reached the summit, Eagle swooped down; they got on his back
 and he soared aloft with them till he was tired. Hawk came close by,
@@ -4341,7 +4317,7 @@ Youth rubbed the sharp rungs with the chewed berries and they became
 dull at once, and he was able to climb the ladder without cutting
 himself. When he entered the house of Man-Eagle he saw hanging the
 monster's flint arrow head armor, on a peg in a recess, and he at once
-exchanged it for the false armor the Piñon maids had given him. In
+exchanged it for the false armor the PiÃ±on maids had given him. In
 another recess he saw Man-Eagle and his lost wife. He called out to
 her that he had come to rescue her from the monster, and she replied
 that she was glad, but that he could not do so, as no one ever left
@@ -5014,7 +4990,7 @@ who run away, not even "to fight another day," desirous to live in
 contentment and happy to exist on the earth, after the fierce enemies
 have jostled many tribes out of existence. Still, the Hopi keep up in
 a feeble, traditional way a warrior society, which corresponds to the
-powerful Priesthood of the Bow who are said to rule Zuñi. So in the
+powerful Priesthood of the Bow who are said to rule ZuÃ±i. So in the
 villages of Tusayan the warriors are merely ornamental and dance
 bravely in some ceremonies, though at some critical period of invasion
 the necessity of drawing the "dead line" might fall upon the warrior
@@ -5311,9 +5287,9 @@ play-instruction by kind teachers of things useful in active life. He
 is wrapped in the customs which have become religion, he is initiated
 into manhood, and takes his place, perhaps inherited, in the
 fraternities. With all these he is taught the lore, the practices, and
-the songs--minutiæ which require a strong memory. He learns the plants
+the songs--minutiÃ¦ which require a strong memory. He learns the plants
 and the animals to which the Hopi had given descriptive names long
-before Linnæus or Cuvier. The sun is his clock, and all nature is near
+before LinnÃ¦us or Cuvier. The sun is his clock, and all nature is near
 to him. He must work also in the fields if he would eat--no drones are
 tolerated. In short, there is a surprising complexity in this life,
 and its demands are weighty. Thus Kopeli at the head of the most
@@ -5608,7 +5584,7 @@ There is a good deal of feeling, mingled with a large element of
 jealousy, against Honani in the minds of his fellow villagers, because
 of his friendliness toward the white man and his stand in favor of
 educating the children in the schools provided by the Government. At
-Zuñi, through some pretext or other, Honani would be hung as a wizard,
+ZuÃ±i, through some pretext or other, Honani would be hung as a wizard,
 whereas the amicable Hopi merely ignore him for a while.
 
 On another occasion, while the party was encamped in a sheltered
@@ -5745,7 +5721,7 @@ Still, in the iridescent interworld between smiles and tears Wupa has
 a romantic and sad history.
 
 The _dramatis personae_ woven into this history are white men,
-Mexicans, Zuñi Indians, and his fellow Hopi. The first misfortune that
+Mexicans, ZuÃ±i Indians, and his fellow Hopi. The first misfortune that
 befell Wupa was to be born at the time when famine harried the
 Peaceful People in their seven villages to the north of the Little
 Colorado. Famine is an old story with the Hopi. For two years no rain
@@ -5760,22 +5736,22 @@ lot among the Navaho shepherds, the Havasupai of Cataract Canyon, and
 other more fortunate tribes of friendly people.
 
 So it happened that Wupa's mother with her hungry babe took the
-well-known trail to Zuñi 100 miles away, and nerved with the strength
+well-known trail to ZuÃ±i 100 miles away, and nerved with the strength
 of desperation at last reached the pueblo under "Corn Mountain."
 Indian philanthropy rarely extends outside the circle of relatives,
-and the Zuñi had no mind to give corn to the poor Hopi woman beyond
+and the ZuÃ±i had no mind to give corn to the poor Hopi woman beyond
 enough to keep her from starving. But little Wupa was worth a bushel
 of the precious ears, and for that amount he was exchanged, becoming,
-without being consulted, a Zuñi, while his mother trudged back to
+without being consulted, a ZuÃ±i, while his mother trudged back to
 Hopiland with food for her starving kinsfolk, feeling, no doubt,
 little sorrow at the loss of her babe, so great is the levelling power
 of famine and misfortune. There are usually strays at all Indian
 villages, and thus the presence of the little Hopi stranger passed
 without notice. When the crops were assured in the fields of the
-famine-stricken Hopi, they ceased coming to Zuñi, and Wupa seems to
+famine-stricken Hopi, they ceased coming to ZuÃ±i, and Wupa seems to
 have been unclaimed and forgotten.
 
-When he was five or six, the Zuñi in turn sold him to some Mexicans,
+When he was five or six, the ZuÃ±i in turn sold him to some Mexicans,
 and the next account there is of him he was living at Albuquerque, a
 stout young _peon_, with cropped hair, a devout Catholic, speaking
 Castilian after the fashion of the "Greasers." Wupa thus became, to
@@ -5796,12 +5772,12 @@ favor.
 
 Wupa quickly picked up the language and associations of his accidental
 compatriots, and soon the Padre rejoiced in another brand plucked from
-the burning. His next step was to find a señorita and to marry her,
+the burning. His next step was to find a seÃ±orita and to marry her,
 and after the semi-barbarous wedding his woes really begin. In
 explanation of the description given of Wupa as he appears at present,
 it may be fair to say that twenty years off his age would leave him a
 passably young man, but even with this gloss, one cannot form a very
-high estimate of the señorita's taste.
+high estimate of the seÃ±orita's taste.
 
 During the period of Wupa's exile, one knowing the Hopi would be
 curious to find out how he bore himself and whether an inherited love
@@ -5815,9 +5791,9 @@ home-coming of Wupa, for he returned again to his native pueblo after
 one of the most varied and remarkable series of adventures that ever
 filled out a true story. The events that led up to the home-coming of
 Wupa form not the least interesting episodes in his history and
-occurred along the old Santa Fé Trail, immortalized by Josiah Gregg.
+occurred along the old Santa FÃ© Trail, immortalized by Josiah Gregg.
 The railroad builders had labored across the plains, up the steep
-slopes of the Rockies, following the famous trail to old Santa Fé,
+slopes of the Rockies, following the famous trail to old Santa FÃ©,
 leaving behind two bands of steel. Blasting, cutting, filling, and
 bridging, they were advancing toward quiet Albuquerque on the lazy Rio
 Grande, and the news of these activities stirred that ancient town
@@ -5835,7 +5811,7 @@ is not difficult to imagine; his skill in "rustling" wood and water in
 later years gives a good clue as to his work on the railroad. As
 messenger and general utility boy where steady labor was not required,
 he no doubt proved useful and picked up sundry pieces of silver for
-his señora. Perhaps not the least of his services lay in his
+his seÃ±ora. Perhaps not the least of his services lay in his
 unfailing good-humor expressed in cheering songs with which he
 softened the trials of railroad pioneering through that almost desert
 country.
@@ -5850,7 +5826,7 @@ could be gotten out of him was a disarming laugh and a disappearance,
 as soon as that move could be made. Picturesque as was the
 construction camp, the stern side of life came very near, and the
 wonderful hues of the landscape were but mockery to the tired and
-thirsty men, who prepared the Santa Fé Trail for the iron horse. Poor
+thirsty men, who prepared the Santa FÃ© Trail for the iron horse. Poor
 food, worse water, alkali dust, parching heat and chilly nights of
 summer and the severity of winter were living realities; there were
 health and vigor in the air of the mountains and elevated plateaus,
@@ -5886,7 +5862,7 @@ did not understand the tongue of his people.
 
 "Yes, come; they sit up there waiting for you." This ought to have
 stirred in Wupa a desire to go at once, but he "no sabe." Finally,
-after parleying in a mixture of Hopi, Zuñi, and Spanish, pieced out
+after parleying in a mixture of Hopi, ZuÃ±i, and Spanish, pieced out
 here and there with sign language, they persuaded him to desert the
 camp and set out with them for his native town a hundred miles to the
 north.
@@ -5908,16 +5884,16 @@ While Wupa was willing to desert and become a pagan, as were his
 ancestors, exchanging the quaint cathedral of Albuquerque with its
 figures of saints and grewsome Corpus Cristi in a glass case for a
 dimly lighted room underground and familiarity with rattlesnakes, his
-señora had other ideas. Wupa mourned that his señora would not cast
+seÃ±ora had other ideas. Wupa mourned that his seÃ±ora would not cast
 her lot with the "Peaceful People" of Tusayan; but money was scarce
 and the distance too great for a personal interview; the letters
 written by a laborious Mexican scribe were productive of no results.
-Though the señora might have done worse, who will blame her? During
+Though the seÃ±ora might have done worse, who will blame her? During
 the years that passed one might think that Wupa would have forgotten
 his wife on the Rio Grande, but it was always the dream of his life to
 bring her to him at Walpi. It was pathetic to hear his schemes and to
 see the way in which he treasured letters from her written in the
-scrawl of the town scribe and addressed to Señor Don José Padilla,
+scrawl of the town scribe and addressed to SeÃ±or Don JosÃ© Padilla,
 which is Wupa's high-sounding Castilian name. His constancy seemed
 admirable, for he did not take an Indian wife, granting that he could
 have secured one of the Hopi belles for spouse.
@@ -5952,7 +5928,7 @@ unripe, according to un-Hopi standards, but were received in the
 spirit in which they were given, and later some natives met on the
 road to Keam's Canyon had an unexpected feast.
 
-The romance of Wupa's devotion to his Mexican señora and the fine
+The romance of Wupa's devotion to his Mexican seÃ±ora and the fine
 flavor of constancy he showed toward her received a rude shattering
 the year after the commencement of this account. He took unto himself
 a Hopi helpmeet,--an albino,--and a whimsical pair they looked when
@@ -6112,7 +6088,7 @@ Through them it has been learned that each pueblo preserves with
 faithful care the history of its beginnings and the wanderings of its
 clans. This at proper times the old men repeat and the story often
 takes a poetical form chanted with great effect in the ceremonies. As
-an example of these interesting myths, one should read the Zuñi Ritual
+an example of these interesting myths, one should read the ZuÃ±i Ritual
 of Creation, that Saga of the Americans which reveals a beauty and
 depth of thought and form surprising to those who have a limited view
 of the ability of the Indian.
@@ -6163,7 +6139,7 @@ later, leaving the dead to the ministrations of the drifting sand.
 
 Nor with the coming of the white people did the wandering cease. There
 were Seven Cities of Cibola in the subsequent stretch of time, these
-seven towns were fused into the Pueblo of Zuñi and again came a
+seven towns were fused into the Pueblo of ZuÃ±i and again came a
 dispersal and from this great pueblo formed the small summer villages
 of Nutria, Pescado, and Ojo Caliente. A human swarm built Laguna two
 centuries ago to swarm again other times. Acoma is mistress of
@@ -6425,7 +6401,7 @@ INDEX
 
   Constellations named, 44
 
-  Coöperation, 37
+  CoÃ¶peration, 37
 
   Corn, cooking of, 66;
     cultivation and care of, 61, 62;
@@ -6757,7 +6733,7 @@ INDEX
   Yeast, chewed, 64
 
 
-  Zuñi, association with, 25
+  ZuÃ±i, association with, 25
 
 
 
@@ -6800,8 +6776,8 @@ Saalako, and this is preserved as printed.
 
 The following amendments have been made:
 
-  Page 14--pinyons amended to piñons--... on the mesas are junipers
-  and piñons; ...
+  Page 14--pinyons amended to piÃ±ons--... on the mesas are junipers
+  and piÃ±ons; ...
 
   Page 30--Soyalana amended to Soyaluna--... and after the Soyaluna
   ceremony ...
@@ -6900,367 +6876,4 @@ have been moved to follow the title page.
 
 End of the Project Gutenberg EBook of The Hopi Indians, by Walter Hough
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE HOPI INDIANS ***
-
-***** This file should be named 57507-8.txt or 57507-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/7/5/0/57507/
-
-Produced by Brian Sogard, Rachael Schultz, Sam W. and the
-Online Distributed Proofreading Team at http://www.pgdp.net
-(This file was produced from images generously made
-available by The Internet Archive)
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 57507 ***
